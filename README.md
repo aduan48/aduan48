@@ -1,51 +1,99 @@
 <div align="center">
 
-# Hi, I'm Alex 👋
+<h1>Alex Duan</h1>
 
-**Full-stack web developer · Student at Colby College**
+<p><b>Full-Stack Developer</b> &nbsp;·&nbsp; Colby College</p>
 
-I build websites and booking/payment systems for real clients: student organizations, sports teams, and small businesses.
+<p>
+I design and build websites and booking systems for student organizations,<br>
+sports teams, and small businesses, from the interface down to the server.
+</p>
 
-[Portfolio](https://alexduanportfolio.com) · [LinkedIn](https://www.linkedin.com/in/YOUR-LINKEDIN) · [Email](mailto:YOUR-EMAIL)
+<p>
+<a href="https://alexduanportfolio.com"><img src="https://img.shields.io/badge/Portfolio-111111?style=for-the-badge&logoColor=white" alt="Portfolio"></a>
+<a href="https://www.linkedin.com/in/alex-duan-244777307/"><img src="https://img.shields.io/badge/LinkedIn-111111?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+<a href="mailto:YOUR-EMAIL"><img src="https://img.shields.io/badge/Email-111111?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
+</p>
 
 </div>
 
----
+<br>
 
-## What I'm building
+## Selected Work
 
-###  [The Studio at Colby](https://github.com/aduan48/Colby-Studio)
-A booking platform for Colby's student-run recording studio. Students pick a time slot, get a confirmation email, and every booking lands in the managers' Google Sheet.
-`React` `Express` `SQLite` `Nginx` `AWS Lightsail` · [Live site](https://thestudioatcolby.org)
+<table>
+  <tr>
+    <td width="30%" valign="top">
+      <b><a href="https://github.com/aduan48/Colby-Studio">The Studio at Colby</a></b><br>
+      <sub><a href="https://thestudioatcolby.org">thestudioatcolby.org</a></sub>
+    </td>
+    <td valign="top">
+      A booking platform for Colby's student-run recording studio. Students reserve sessions
+      with student engineers, receive confirmation emails, and every booking syncs to the
+      managers' Google Sheet. Includes a secured admin dashboard and database-level
+      protection against double bookings.<br><br>
+      <sub>React &nbsp;·&nbsp; Express &nbsp;·&nbsp; SQLite &nbsp;·&nbsp; Nginx &nbsp;·&nbsp; AWS Lightsail</sub>
+    </td>
+  </tr>
+  <tr>
+    <td width="30%" valign="top">
+      <b><a href="https://github.com/aduan48/Colby-Club-Hockey-V2026">Colby Club Hockey</a></b><br>
+      <sub><a href="https://colbyclubhockey.com">colbyclubhockey.com</a></sub>
+    </td>
+    <td valign="top">
+      The club's official website, with schedules, rosters, livestream links, and interactive
+      3D elements. Backend functions serve schedule data that is parsed into interactive
+      rosters and game timelines.<br><br>
+      <sub>React &nbsp;·&nbsp; Netlify Functions &nbsp;·&nbsp; Netlify Forms</sub>
+    </td>
+  </tr>
+  <tr>
+    <td width="30%" valign="top">
+      <b><a href="https://github.com/aduan48/East-Coast-Dragons">East Coast Dragons</a></b><br>
+      <sub><a href="https://eastcoastdragons.com">eastcoastdragons.com</a></sub>
+    </td>
+    <td valign="top">
+      A client site with secure player registration, PayPal payments, and a Google Sheets
+      backend that turns the website into an operational tool for managing players,
+      payments, and tournament signups.<br><br>
+      <sub>React &nbsp;·&nbsp; PayPal &nbsp;·&nbsp; Google Sheets</sub>
+    </td>
+  </tr>
+</table>
 
-###  [Colby Club Hockey](https://github.com/aduan48/Colby-Club-Hockey-V2026)
-The team's website, with schedules, rosters, livestream links, and interactive 3D elements. Schedule data is served from backend functions and parsed into interactive game timelines.
-`React` `Netlify Functions` `Netlify Forms` · [Live site](https://colbyclubhockey.com)
+<br>
 
-###  [East Coast Dragons](https://github.com/aduan48/East-Coast-Dragons)
-A site for the East Coast Dragons with secure player registration, PayPal payments, and a Google Sheets backend for managing player data and tournament signups.
-`React` `PayPal` `Google Sheets` · [Live site](https://eastcoastdragons.com)
+## Toolkit
 
----
+<table>
+  <tr>
+    <td width="30%"><b>Frontend</b></td>
+    <td>JavaScript &nbsp;·&nbsp; React &nbsp;·&nbsp; Vite &nbsp;·&nbsp; React Router &nbsp;·&nbsp; GSAP &nbsp;·&nbsp; Framer Motion</td>
+  </tr>
+  <tr>
+    <td width="30%"><b>Backend</b></td>
+    <td>Node.js &nbsp;·&nbsp; Express &nbsp;·&nbsp; SQLite &nbsp;·&nbsp; REST APIs &nbsp;·&nbsp; Nodemailer</td>
+  </tr>
+  <tr>
+    <td width="30%"><b>Infrastructure</b></td>
+    <td>AWS Lightsail &nbsp;·&nbsp; Nginx &nbsp;·&nbsp; PM2 &nbsp;·&nbsp; Netlify &nbsp;·&nbsp; Git</td>
+  </tr>
+  <tr>
+    <td width="30%"><b>Design</b></td>
+    <td>Brand identity &nbsp;·&nbsp; Sports graphics &nbsp;·&nbsp; UI design</td>
+  </tr>
+</table>
 
-## Tech I use
+<br>
 
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
-![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
-![Express](https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white)
-![SQLite](https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white)
-![GSAP](https://img.shields.io/badge/GSAP-88CE02?style=flat-square&logo=greensock&logoColor=black)
-![AWS](https://img.shields.io/badge/AWS_Lightsail-232F3E?style=flat-square&logo=amazonwebservices&logoColor=white)
-![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=flat-square&logo=netlify&logoColor=white)
-![Nginx](https://img.shields.io/badge/Nginx-009639?style=flat-square&logo=nginx&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+## Currently
 
----
+- Expanding into backend development and SQL
+- Tutoring math at Colby College
+- Open to software engineering internships
 
-## A little more about me
+<br>
 
--  I started in design, so I care about how things look *and* how they work
--  Currently getting deeper into backend development and SQL
--  Open to software engineering internships. Feel free to reach out!
+<div align="center">
+<sub>alexduanportfolio.com</sub>
+</div>
