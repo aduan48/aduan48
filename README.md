@@ -14,15 +14,15 @@ I build websites and booking/payment systems for real clients: student organizat
 
 ## What I'm building
 
-### 🎙️ [The Studio at Colby](https://github.com/aduan48/Colby-Studio)
+###  [The Studio at Colby](https://github.com/aduan48/Colby-Studio)
 A booking platform for Colby's student-run recording studio. Students pick a time slot, get a confirmation email, and every booking lands in the managers' Google Sheet.
 `React` `Express` `SQLite` `Nginx` `AWS Lightsail` · [Live site](https://thestudioatcolby.org)
 
-### 🏒 [Colby Club Hockey](https://github.com/aduan48/Colby-Club-Hockey-V2026)
+###  [Colby Club Hockey](https://github.com/aduan48/Colby-Club-Hockey-V2026)
 The team's website, with schedules, rosters, livestream links, and interactive 3D elements. Schedule data is served from backend functions and parsed into interactive game timelines.
 `React` `Netlify Functions` `Netlify Forms` · [Live site](https://colbyclubhockey.com)
 
-### 🐉 [East Coast Dragons](https://github.com/aduan48/East-Coast-Dragons)
+###  [East Coast Dragons](https://github.com/aduan48/East-Coast-Dragons)
 A site for the East Coast Dragons with secure player registration, PayPal payments, and a Google Sheets backend for managing player data and tournament signups.
 `React` `PayPal` `Google Sheets` · [Live site](https://eastcoastdragons.com)
 
@@ -46,8 +46,6 @@ A site for the East Coast Dragons with secure player registration, PayPal paymen
 
 ## A little more about me
 
-- 🎨 I started in design, so I care about how things look *and* how they work
-- 📚 Currently getting deeper into backend development and SQL
-- 🧮 Math tutor at Colby
-- 🌲 Trip leader for Colby Outdoor Orientation
-- 💬 Open to software engineering internships. Feel free to reach out!
+-  I started in design, so I care about how things look *and* how they work
+-  Currently getting deeper into backend development and SQL
+-  Open to software engineering internships. Feel free to reach out!
